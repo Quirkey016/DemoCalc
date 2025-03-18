@@ -1,0 +1,10 @@
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe.config
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.exe
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\bin\Debug\DemoCalc.pdb
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.AssemblyReference.cache
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Form1.resources
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.Properties.Resources.resources
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.GenerateResource.cache
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.csproj.CoreCompileInputs.cache
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.exe
+C:\Users\Quirke\Desktop\Demos\Calculator\DemoCalc\DemoCalc\obj\Debug\DemoCalc.pdb
